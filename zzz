@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1,88 Estéreo (486p)
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 group-title="Música" tvg-logo="https://graph.facebook.com/asondesalsa/picture?width=320&height=320",Un Son de Salsa (720p)
+https://stmv1.mipaneltv.com/asondesalsa/asondesalsa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PrOYyU1.png",Anexión TV (360p)
+http://rtmp.info:8081/anexiontv/envivo/index.m3u8
+#EXTINF:-1 group-title="Animación" tvg-logo="https://graph.facebook.com/AnimeZoneXTV/picture?width=300&height=300",Anime Zone TV (480p) [No 24 horas al día, 7 días a la semana]
+http://azxtv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/V-_fSNpzlQPfFuUG0wLkrR7-PQ3RDx3n9tE4zA_8Exm_OKVeU24Kt2HiKLYweJXItgY",Antena Seis TV (720p) [No 24/7]
+http://inliveserver.com:1935/14510/14510/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.multimedios.cr/sites/default/files/styles/social_share/public/multimedios1.jpg",Canal 8 (720p)
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTNDjR1edbxFUJ8KSf8dffHp6ch_Xz35Cm9UIlH9PGTyheprfQc",Canal 14 San Carlos (720p)
+http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png",Canal 26 (720p)
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1 group-title="Música" tvg-logo="https://www.canal38cr.com/wp-content/uploads/2019/10/cropped-Logo-Nuevo-400.jpg",Canal 38 (720p) [No 24 horas al día, 7 días a la semana]
+https://rtmp.info/canal38/envivo/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://hosttec.online/wp-content/uploads/2020/03/img1920.jpg",Canal 88 Estéreo (720p) [No 24/7]
+http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 group-title="Estilo de vida" tvg-logo="http://chicmagazinetv.online/img/logo-radio.png",Revista CHIC (720p)
+https://paneltv.online:1936/8056/8056/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",Claro Deportes
+http://45.179.140.242:8000/play/a0ht
+#EXTINF:-1, Colosal TV (720p) [No 24 horas al día, 7 días a la semana]
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",CR-TV y Radio (360p)
+https://cp.sradiotv.com:1936/8034/8034/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvcubana.icrt.cu/images/logos-canales/logo-mascara/cvi.jpg",CubaVision Internacional (480p) [No 24/7]
+http://190.122.96.187:8888/http/010
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 group-title="Auto" tvg-logo="https://i.imgur.com/cd0hP5e.png",El Garage TV (480p) [No 24/7]
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E9AuhOU.png",Extrema TV (720p)
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/unored.tv/wp-content/uploads/2018/03/Extrema-TV-portal-Unored-1.png",Extrema TV ( 720p)
+https://www.livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",France 24 Español (576p)
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-k5QO6YHdanw/AAAAAAAAAAI/AAAAAAAAAAA/UTcqO9gj0z0/s900-ck-no-mo-rj-c0xffffff/photo.jpg",HBTV TicaVisión (1080p )
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://en.wikipedia.org/wiki/File:HispanTv_logo.svg",HispanTV (480p)
+https://live1.presstv.ir/live/hispan.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/https://www.facebook.com/humor247cr/picture?width=320&height=320",Humor 24 -7 (360p)
+https://srv.panelcast.net/humor247/humor247/playlist.m3u8
+#EXTINF:-1 group-title="Animación" tvg-logo="https://i.imgur.com/auEJJvP.png",Locomotion TV (480p) [No 24 horas al día, 7 días a la semana]
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1, Magic Kids [No 24 horas al día, 7 días a la semana]
+https://live.admefy.com/live/240/clean_peach_ef224.m3u8
+#EXTINF:-1 grupo-title="Niños",Nick Jr Latinoamérica (480p)
+http://201.168.205.12:8000/play/a0ck/index.m3u8
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://i.imgur.com/exdDHml.png",Nuevo Tiempo (720p) [No 24/7]
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tvretropalmares.com/img/logo.png",Retro TV Palmares (360p) [No 24/7]
+http://tvretropalmares.com:8090/hls/envivo.m3u8
+#EXTINF:-1 group-title="Noticias",RT en Español (1080p) [No 24/7]
+https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/10/Canal-stv-en-vivo.jpg",STV El Camal Familiar (720p) [No 24/ 7]
+http://tiquiciatv.com:1935/stv/web/playlist.m3u8
+#EXTINF:-1 group-title="Cocina" tvg-logo="https://i.imgur.com/8s6aRwv.png",Tastemade en Español (1080p)
+https://tastemade-es8intl-roku.amagi.tv/hls/amagi_hls_data_tastemade-tastemade-es8intl-roku/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Tele-Uno-Costa-Rica-en-vivo-Online. png?fit=1920%2C1080",Tele Uno (720p) [No 24 horas al día, 7 días a la semana]
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iO6qmgY.png",Telered Television (720p) [No 24 horas al día, 7 días a la semana]
+http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r5p97Ex.jpg",TeleSUR Costa Rica (720p) [No 24/7]
+http://k3.usastreams.com/telesur/telesur/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ-pLqFOvp-6R_dr9whF_Q5IBLtvtRcMjOY2xmROz5zFlIu7Y88Q&s",TV Sur Canal 9 (480p) [No 24/7]
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2020/05/tvsur-logo.png",TV Sur Canal 14 (1080p)
+https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
+#EXTINF:-1 group-title="Música" tvg-logo="https://graph.facebook.com/valleinalradio/picture?width=320&height=320",Vallenato Internacional (720p) [No 24/7]
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+#EXTINF:-1 group-title="Música" tvg-logo="https://i.imgur.com/l1oc3ER.png",Canal de recorrido en video (720p) [No 24 horas al día, 7 días a la semana]
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8
